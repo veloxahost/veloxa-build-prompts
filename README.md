@@ -296,7 +296,7 @@ Build a website for an indie band: hero with the latest release and listen butto
 
 ## Contributing
 
-Add a prompt with a PR: put it in the right file under [`prompts/`](prompts), keep it under 2,000 characters, and test it in at least one builder first.
+Add a prompt with a PR: put it in the right file under [`prompts/`](prompts), keep it under 2,000 characters, and try it in at least one builder first.
 
 ## Use the button in your own posts
 
