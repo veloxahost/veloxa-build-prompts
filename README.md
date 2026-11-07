@@ -306,9 +306,9 @@ Writing a tutorial? Link any prompt with the [Build button](https://veloxahost.c
 [![Build with Veloxa Build](https://veloxahost.com/badges/build-with-veloxa-build.svg)](https://build.veloxahost.com/?prompt=YOUR%20URL-ENCODED%20PROMPT)
 ```
 
-## Read the write-up
+## Read more
 
-**30 AI website builder prompts that produce usable sites**: [dev.to](https://dev.to/veloxadev/30-ai-website-builder-prompts-that-produce-usable-sites-free-cc0-18ej)
+- [How to write a prompt that builds the right app](https://veloxahost.com/veloxa-build/guides/how-to-write-a-build-prompt?utm_source=github&utm_medium=referral&utm_campaign=veloxa-build-prompts)
 
 ## License
 
